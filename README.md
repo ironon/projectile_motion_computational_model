@@ -1,12 +1,3 @@
-# WOAHHH WHAT IS THIS?!
-good question
+# Projectile Motion Computational Model
 
-
-this is a web ui that basically simulates projectile motion. it's kinda really bad cause i made it in 3 days and the code quality is...erm...interesting!! 
-
-but it works!!
-
-
-and i love it!!!
-
-so no judging me!!!
+Computational model written in TS that includes upt to 100 kinematic derivatives of motion, all controllable from their own axis of rotation.
